@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Users\nancy\IdeaProjects\Junit_tests_HW\Junit_1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/compiler.xml
+/jarRepositories.xml
+/misc.xml
+/.name
+/vcs.xml
